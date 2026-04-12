@@ -1,6 +1,38 @@
 # Course Page Generator
 
+> [!NOTE]
+> 📺 **搭配影片觀看效果更佳** — [YouTube 完整教學](https://youtu.be/0pZri5f_tfk)
+
+❝Vibe Coding 速度很快，但用完就丟的東西，永遠不會變成你的！❞
+
+這句話，是我用 Vibe Coding 做了幾十個網頁後的感悟。
+
+- 👉 AI 生成的網頁很漂亮，但細節與架構很難調整
+- 👉 每次生成結果都很隨機，風格、排版無法完全掌控
+- 👉 做完的東西無法重複使用，下次又要從零開始
+
+這支影片將透過實戰，帶你用「模板思維 + Agent Skills」解決以上痛點：
+
+1. 登入 ChatGPT 免費體驗 Codex
+2. 終端機 vs 編輯器，自由選擇操作模式
+3. 把 AI 隨機的輸出，變成可用 Markdown 維護的模板
+4. 將模板封裝成 Agent Skill，建立完整工作流
+5. 一鍵部署到 GitHub Pages，讓講義網頁上線
+
+> AI 時代下，Vibe Coding 的價值不在於生成速度 ──
+> 而在於你能不能把成果從「免洗餐具」變成「長期工具」
+
+---
+
 提供主題 or Markdown 講稿，透過 Agent Skills 單一 HTML 課程頁面。
+
+## 目錄
+
+- [Quick Start](#quick-start)
+- [專案結構](#專案結構)
+- [新增一門課程](#新增一門課程)
+- [Config 機制](#config-機制)
+- [Markdown 語法](#markdown-語法)
 
 ## Quick Start
 
