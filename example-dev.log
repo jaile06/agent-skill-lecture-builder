@@ -1,0 +1,13 @@
+
+🚀 Course Dev Server
+   Course: D:\workspace\agent-skill-lecture-builder\example
+   Watching: example, .agents\skills\course-page-generator\reference, config
+
+🔨 Building: D:\workspace\agent-skill-lecture-builder\example
+   Global config: D:\workspace\agent-skill-lecture-builder\config\global.yaml
+   Course config: D:\workspace\agent-skill-lecture-builder\example\config.yaml
+✅ Generated: D:\workspace\agent-skill-lecture-builder\example\index.html
+   Sections: 5, Sub-sections: 7
+
+   🌐 http://localhost:3000
+
